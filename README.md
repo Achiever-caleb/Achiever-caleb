@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Achiever-caleb
-- 👀 I’m interested in data science and digital marketing
-- 🌱 I’m currently learning data analytics
+- 👋 Hi, I’m Caleb Okon
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me okoncaleb07@gmail.com
 
